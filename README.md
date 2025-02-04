@@ -67,6 +67,12 @@ pip install -r requirements.txt
 Future Work
 Optimize scraping for real-time updates
 Improve object detection accuracy
-Develop analytical dashboards
+Develop analytical dashboards# Ethiopian Medical Business Data Warehouse
+
+This project scrapes data from Telegram channels, cleans and transforms it, runs object detection on images using YOLO, stores the data in a PostgreSQL warehouse, and exposes it via a FastAPI application.
+
+## File Structure
+
+
 Author
 Mesfin Shimels 
